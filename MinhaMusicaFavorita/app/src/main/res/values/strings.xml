@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">MinhaMusicaFavorita</string>
+    <string name="deDipte_lyrics">Você conhece o sentimento quando seu sonho não se torna realidade Ken je het gevoel dat, dat je droom niet uitkomt Você já tem medo de que sempre será assim Ben je wel eens bang dat het altijd zo blijft Porque chove todos os dias e não vejo uma mão na frente dos meus olhos Want het regent alle dagen en ik zie geen hand voor ogen</string>
+    <string name="music_name">DeDipte</string>
+    <string name="image_description">Picture of singer S10</string>
+    <string name="title_activity_informacoes">Informacoes_activity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="title_activity_detalhe">DetalheActivity</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="lyrics">Ken je het gevoel dat, dat je droom niet uitkomt Ben je wel eens bang dat het altijd zo blijft Want het regent alle dagen en ik zie geen hand voor ogen Jij en ik toch samen, dat zou altijd zo zijn</string>
+</resources>
