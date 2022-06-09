@@ -25,7 +25,7 @@ class AlbumAdapter(
 // o que quero mostrar? os albuns (meus itensd da lista)
     class ViewHolder(val binding: AlbumItemBinding) :RecyclerView.ViewHolder(binding.root){
         fun exibirdadosItemLista(album: Album){
-            binding.ivAlbum.album.getImage()
+           // binding.ivAlbum.album.getImage()
         }
     }
 

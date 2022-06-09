@@ -12,13 +12,15 @@ class InformacoesPagerAdapter(
 ) : FragmentStateAdapter(fragmentManager, lifecycle) {
 
     override fun getItemCount(): Int = listaAlbuns.size
-
     override fun createFragment(position: Int): Fragment {
-        when(position){
-            0 -> return InformacoesFragment()
-            1 -> return AlbunsFragment()
-        }
-
-        return FilmeFragment()
+        TODO("Not yet implemented")
     }
+
+    //override fun createFragment(position: Int): Fragment {
+        //when (position) {
+            // 0 -> return InformacoesFragment()
+            //1 -> return AlbunsFragment()
+//        }
+
+        //return FilmeFragment()
 }

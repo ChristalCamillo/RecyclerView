@@ -30,7 +30,7 @@
             android:label="@string/title_activity_informacoes"
             android:theme="@style/Theme.MinhaMusicaFavorita.NoActionBar" />
         <activity
-            android:name=".HomeActivity.HomeActivity"
+            android:name=".informacoes.home.HomeActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

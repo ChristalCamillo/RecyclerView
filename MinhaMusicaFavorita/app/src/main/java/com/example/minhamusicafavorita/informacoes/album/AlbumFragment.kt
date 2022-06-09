@@ -31,6 +31,6 @@ class AlbumFragment : Fragment() {
 
         listaAlbum.add(Album(R.drawable.s10_image,"DeDipte"))
 
-        albumAdapter.atualizar
+        //albumAdapter.atualizar
     }
 }

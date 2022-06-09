@@ -18,4 +18,12 @@
         android:name="com.example.minhamusicafavorita.informacoes.detalhe.DetalheAbumFragment"
         android:label="fragment_detalhe_abum"
         tools:layout="@layout/fragment_detalhe_abum" />
+    <fragment
+        android:id="@+id/homeFragment"
+        android:name="com.example.minhamusicafavorita.informacoes.home.HomeFragment"
+        android:label="HomeFragment" >
+        <action
+            android:id="@+id/action_homeFragment_to_albumFragment"
+            app:destination="@id/albumFragment" />
+    </fragment>
 </navigation>
